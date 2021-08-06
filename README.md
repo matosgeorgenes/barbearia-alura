@@ -1,2 +1,4 @@
 # barbearia-alura
-Aqui foi criado um modelo de sita para uma Barbearia. Ici a été créé un modèle de site pour un salon de coiffure.
+Aqui foi criado um Projeto de site. Que tem como referência uma Barbearia.
+Ici, un projet de site Web a été créé. Qui a un Barbershop comme référence.
+Here a Website Project was created. Which has a Barbershop as a reference. 
