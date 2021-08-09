@@ -6,16 +6,16 @@ body {
 	width: 100%;
 }
 
-.principal{
+.principal {
 	background: #CCCCCC;
 	padding: 30px;
 }
 
-.titulo-principal{
+.titulo-principal {
 	padding-left: 20px;
 }
 
-.titulo-centralizado{
+.titulo-centralizado {
 	text-align: center
 }
 
@@ -41,13 +41,14 @@ em strong {
 	padding: 20px;
 }
 
-ul{
+ul {
 	display: inline-block;
 	vertical-align: top;
-	widt: 20%;
-	margin-right:  15%;
+	width: 20%;
+	margin-right: 15%;
 }
 
-.imagembeneficios{
-	width: 50%;
+#imagembeneficios {
+		width: 50%
+		
 }
